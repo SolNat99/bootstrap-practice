@@ -11,5 +11,15 @@
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 ​
     <?php wp_head(); ?>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Rathalos</a></li>
+                <li><a href="#">Zinogre</a></li>
+                <li><a href="#">Glavenus</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <h5>I am the header</h5>
 </head>

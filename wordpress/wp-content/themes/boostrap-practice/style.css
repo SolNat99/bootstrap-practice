@@ -3,3 +3,15 @@ Theme Name: Bootstrap 4 Practice
 Author: NSolorio
 Version: 1.0
 */
+
+.row{
+    background-color:lightblue; 
+    padding:10px;
+    border:5px;
+}
+
+.col{
+    background-color:lightslategray;
+    padding:10px;
+    border:25px;
+}
