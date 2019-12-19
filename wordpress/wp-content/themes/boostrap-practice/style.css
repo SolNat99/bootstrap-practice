@@ -8,6 +8,7 @@ Version: 1.0
     background-color:lightblue; 
     padding:10px;
     border:5px;
+    flex-direction: column-reverse;
 }
 
 .col{
@@ -15,3 +16,13 @@ Version: 1.0
     padding:10px;
     border:25px;
 }
+
+.box{
+    background-color: aliceblue;
+    width: 300px;
+    border: 15px solid aquamarine;
+    padding: 50px;
+    margin: 20px;
+   justify-content: space-around;
+}
+

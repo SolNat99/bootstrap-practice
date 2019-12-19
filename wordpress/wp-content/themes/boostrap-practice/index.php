@@ -30,4 +30,14 @@
 
 </section>
 
+
+<section>
+    <div class="box">
+        <h2>This is a box</h2>
+    </div>
+</section>
+
+
+
+
 <?php get_footer(); ?>
